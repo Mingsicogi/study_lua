@@ -3,7 +3,6 @@
 --- Created by minssogi2.
 --- DateTime: 2023/02/27 4:24 PM
 ---
-
 local unit_table = {}
 unit_table[1] = 1
 unit_table[2] = 60
