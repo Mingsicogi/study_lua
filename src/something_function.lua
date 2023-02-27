@@ -5,7 +5,7 @@
 ---
 
 local redis = require 'redis'
-local client = redis.connect('127.0.0.1', 6379)
+local client = redis.connect('52.78.41.78', 6379)
 
 function add_two_numbers(a, b)
     return a + b

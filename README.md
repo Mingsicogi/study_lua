@@ -14,3 +14,4 @@
 
 5. test lua command
 6. lua -e "print('hello world')"
+7. sudo luarocks install redis-lua
